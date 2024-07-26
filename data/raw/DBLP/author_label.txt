@@ -1,0 +1,696 @@
+18505	1	Hiroshi Motoda
+3759	2	N. Hari Narayanan
+17969	2	Sylvian R. Ray
+4319	2	Dongmo Zhang
+16807	2	Emmett Tomai
+18792	2	James A. Reggia
+17477	2	Takayuki Ito
+17805	2	Terry E. Weymouth
+15876	2	David Kortenkamp
+15493	2	Raymond J. Mooney
+19831	2	John M. Zelle
+16641	2	Jeffrey S. Rosenschein
+16399	2	Matthew L. Ginsberg
+16830	2	C. David Page Jr.
+17583	2	John Seely Brown
+16896	2	Thomas Y. Galloway
+10138	2	Tetsuya Higuchi
+18123	1	Shai Ben-David
+18073	2	Anthony Stentz
+15713	2	Robert C. Bolles
+17281	2	Sandip Sen
+16322	2	Norman Y. Foo
+15710	2	Toby Walsh
+18994	2	Kent Wittenburg
+17565	2	Sanjaya Addanki
+17871	2	P. Pandurang Nayak
+20085	2	Brahim Chaib-draa
+18363	2	Itay Meiri
+18260	3	Michael L. Mauldin
+16793	2	Nicholas S. Flann
+17517	2	Kevin Leyton-Brown
+16284	2	Boi Faltings
+17766	2	Josh D. Tenenberg
+15481	2	Qiang Yang
+15359	2	R. James Firby
+19160	2	Jeffrey C. Schlimmer
+13103	2	Donghui Feng
+15645	2	Jihie Kim
+16781	2	Andrew P. Witkin
+17783	2	Mieczyslaw M. Kokar
+16633	2	Michael P. Wellman
+17436	2	Joelle Pineau
+16453	2	Keiji Kanazawa
+20265	2	Changshui Zhang
+20708	2	Shiming Xiang
+20388	2	Yangqing Jia
+20607	2	Martin C. Cooper
+15791	2	Michael H. Bowling
+16855	2	Daniel Frost
+18369	2	Arthur C. Sanderson
+18368	2	Luiz Homem de Mello
+16142	2	Hubie Chen
+18476	2	Leora Morgenstern
+17262	2	Steven L. Lytinen
+19764	2	Ramin Zabih
+16849	0	Georg Gottlob
+20819	2	Yilan Gu
+15704	2	Barry O'Sullivan
+7046	2	Stefano Bistarelli
+18564	2	Neil V. Murray
+20244	2	Pascal Hitzler
+4642	2	Jeff Z. Pan
+18370	2	Michael D. Moffitt
+16490	2	Ashwin Ram
+18118	2	Yuanlin Zhang
+17489	3	Paul S. Jacobs
+17577	2	Olivier Lhomme
+15592	2	Chitta Baral
+18291	2	Gregory Druck
+15787	2	Andrew McCallum
+19806	2	Masahiro Ono
+16048	3	Sandra Carberry
+19057	2	Chaofan Sun
+15706	2	Marco Cadoli
+17864	2	V. Nageshwara Rao
+17863	2	K. Ramesh
+20279	2	Antonio Roque
+16338	2	James M. Crawford
+17019	2	Naftali Tishby
+17422	2	Ramakant Nevatia
+17841	2	Jeff G. Schneider
+16530	2	Steven K. Donoho
+15993	2	David C. Wilkins
+17388	2	David S. Touretzky
+4802	0	Li Chen
+15904	2	Gerhard Brewka
+4472	2	Vincent Conitzer
+12729	2	Jayant Kalagnanam
+4473	2	Tuomas Sandholm
+16778	2	Michael R. Lowry
+16691	2	Brian Falkenhainer
+16692	2	Dedre Gentner
+16766	2	Akshay Java
+4681	2	Timothy W. Finin
+4840	3	Li Ding
+4842	2	Rong Pan
+2290	1	Wei Li
+18032	2	Pascal Poupart
+15441	2	Evan Sultanik
+15440	2	William C. Regli
+19801	2	Nobuhiro Yugami
+17714	2	Larry A. Rendell
+448	2	Katsushi Ikeuchi
+4927	2	Yoav Shoham
+4516	2	David C. Parkes
+18797	2	William Pentney
+18800	2	Matthai Philipose
+17223	2	Tracy Hammond
+15385	2	Barbara Hayes-Roth
+16969	2	Wayne Iba
+19823	2	Fan Li
+16269	2	John W. Collins
+17424	2	John E. Laird
+19012	2	Jussi Rintanen
+17015	2	Moshe Koppel
+17014	2	Ido Dagan
+15610	2	Le-Chi Tuan
+15601	2	Tran Cao Son
+17468	2	Satinder P. Singh
+18201	2	Robert M. MacGregor
+16537	2	Piotr J. Gmytrasiewicz
+16501	2	Bistra N. Dilkina
+16650	2	Kutluhan Erol
+3460	2	James A. Hendler
+798	2	Steven Feiner
+16721	2	Kathleen McKeown
+17573	2	Ulrich Junker
+435	2	Takeo Kanade
+15206	0	Maurizio Lenzerini
+16347	2	Rajesh P. N. Rao
+15157	2	Bruce G. Buchanan
+15973	2	Scott H. Clearwater
+18215	2	Luca Maria Gambardella
+18255	2	Michael J. Witbrock
+19042	2	Mehran Sahami
+19730	2	Richard P. Wildes
+4469	2	Mark S. Fox
+16431	2	Howard E. Shrobe
+20264	2	Fei Wang
+2588	1	Tao Li
+18125	2	Charles X. Ling
+17440	2	Aaron Hunter
+15816	2	Ronald J. Brachman
+15575	2	Robert Neches
+4830	2	Iyad Rahwan
+20053	2	Chris Reed
+18286	2	Randall Steeb
+17762	2	Steve K. Luk
+15290	2	Grigoris Antoniou
+16122	2	Eugene Charniak
+16588	2	Hans Tompits
+16589	2	Stefan Woltran
+18006	0	Julie Letchner
+15829	2	Wendy G. Lehnert
+18148	2	Dimitris Margaritis
+17530	2	Sridhar Mahadevan
+19563	2	Rudolph Triebel
+4595	2	Katia P. Sycara
+18667	3	Jun-ichi Tsujii
+19240	2	Alberto Maria Segre
+16988	2	Allen Ginsberg
+18018	2	John Levine
+4285	2	Peter R. Wurman
+1245	2	Alex Pentland
+16458	2	Kalev Kask
+16714	1	Usama M. Fayyad
+18004	2	Jasmina Pavlin
+16162	2	David Maxwell Chickering
+17860	2	T. K. Satish Kumar
+16224	2	Tad Hogg
+18025	2	Ilya Levner
+18837	2	Jean Ponce
+19782	2	Tanzeem Choudhury
+15350	2	Norman K. Sondheimer
+39325	1	Hiroshi Motoda
+24579	2	N. Hari Narayanan
+38789	2	Sylvian R. Ray
+25139	2	Dongmo Zhang
+37627	2	Emmett Tomai
+39612	2	James A. Reggia
+38297	2	Takayuki Ito
+38625	2	Terry E. Weymouth
+36696	2	David Kortenkamp
+36313	2	Raymond J. Mooney
+40651	2	John M. Zelle
+37461	2	Jeffrey S. Rosenschein
+37219	2	Matthew L. Ginsberg
+37650	2	C. David Page Jr.
+38403	2	John Seely Brown
+37716	2	Thomas Y. Galloway
+30958	2	Tetsuya Higuchi
+38943	1	Shai Ben-David
+38893	2	Anthony Stentz
+36533	2	Robert C. Bolles
+38101	2	Sandip Sen
+37142	2	Norman Y. Foo
+36530	2	Toby Walsh
+39814	2	Kent Wittenburg
+38385	2	Sanjaya Addanki
+38691	2	P. Pandurang Nayak
+40905	2	Brahim Chaib-draa
+39183	2	Itay Meiri
+39080	3	Michael L. Mauldin
+37613	2	Nicholas S. Flann
+38337	2	Kevin Leyton-Brown
+37104	2	Boi Faltings
+38586	2	Josh D. Tenenberg
+36301	2	Qiang Yang
+36179	2	R. James Firby
+39980	2	Jeffrey C. Schlimmer
+33923	2	Donghui Feng
+36465	2	Jihie Kim
+37601	2	Andrew P. Witkin
+38603	2	Mieczyslaw M. Kokar
+37453	2	Michael P. Wellman
+38256	2	Joelle Pineau
+37273	2	Keiji Kanazawa
+41085	2	Changshui Zhang
+41528	2	Shiming Xiang
+41208	2	Yangqing Jia
+41427	2	Martin C. Cooper
+36611	2	Michael H. Bowling
+37675	2	Daniel Frost
+39189	2	Arthur C. Sanderson
+39188	2	Luiz Homem de Mello
+36962	2	Hubie Chen
+39296	2	Leora Morgenstern
+38082	2	Steven L. Lytinen
+40584	2	Ramin Zabih
+37669	0	Georg Gottlob
+41639	2	Yilan Gu
+36524	2	Barry O'Sullivan
+27866	2	Stefano Bistarelli
+39384	2	Neil V. Murray
+41064	2	Pascal Hitzler
+25462	2	Jeff Z. Pan
+39190	2	Michael D. Moffitt
+37310	2	Ashwin Ram
+38938	2	Yuanlin Zhang
+38309	3	Paul S. Jacobs
+38397	2	Olivier Lhomme
+36412	2	Chitta Baral
+39111	2	Gregory Druck
+36607	2	Andrew McCallum
+40626	2	Masahiro Ono
+36868	3	Sandra Carberry
+39877	2	Chaofan Sun
+36526	2	Marco Cadoli
+38684	2	V. Nageshwara Rao
+38683	2	K. Ramesh
+41099	2	Antonio Roque
+37158	2	James M. Crawford
+37839	2	Naftali Tishby
+38242	2	Ramakant Nevatia
+38661	2	Jeff G. Schneider
+37350	2	Steven K. Donoho
+36813	2	David C. Wilkins
+38208	2	David S. Touretzky
+25622	0	Li Chen
+36724	2	Gerhard Brewka
+25292	2	Vincent Conitzer
+33549	2	Jayant Kalagnanam
+25293	2	Tuomas Sandholm
+37598	2	Michael R. Lowry
+37511	2	Brian Falkenhainer
+37512	2	Dedre Gentner
+37586	2	Akshay Java
+25501	2	Timothy W. Finin
+25660	3	Li Ding
+25662	2	Rong Pan
+23110	1	Wei Li
+38852	2	Pascal Poupart
+36261	2	Evan Sultanik
+36260	2	William C. Regli
+40621	2	Nobuhiro Yugami
+38534	2	Larry A. Rendell
+21268	2	Katsushi Ikeuchi
+25747	2	Yoav Shoham
+25336	2	David C. Parkes
+39617	2	William Pentney
+39620	2	Matthai Philipose
+38043	2	Tracy Hammond
+36205	2	Barbara Hayes-Roth
+37789	2	Wayne Iba
+40643	2	Fan Li
+37089	2	John W. Collins
+38244	2	John E. Laird
+39832	2	Jussi Rintanen
+37835	2	Moshe Koppel
+37834	2	Ido Dagan
+36430	2	Le-Chi Tuan
+36421	2	Tran Cao Son
+38288	2	Satinder P. Singh
+39021	2	Robert M. MacGregor
+37357	2	Piotr J. Gmytrasiewicz
+37321	2	Bistra N. Dilkina
+37470	2	Kutluhan Erol
+24280	2	James A. Hendler
+21618	2	Steven Feiner
+37541	2	Kathleen McKeown
+38393	2	Ulrich Junker
+21255	2	Takeo Kanade
+36026	0	Maurizio Lenzerini
+37167	2	Rajesh P. N. Rao
+35977	2	Bruce G. Buchanan
+36793	2	Scott H. Clearwater
+39035	2	Luca Maria Gambardella
+39075	2	Michael J. Witbrock
+39862	2	Mehran Sahami
+40550	2	Richard P. Wildes
+25289	2	Mark S. Fox
+37251	2	Howard E. Shrobe
+41084	2	Fei Wang
+23408	1	Tao Li
+38945	2	Charles X. Ling
+38260	2	Aaron Hunter
+36636	2	Ronald J. Brachman
+36395	2	Robert Neches
+25650	2	Iyad Rahwan
+40873	2	Chris Reed
+39106	2	Randall Steeb
+38582	2	Steve K. Luk
+36110	2	Grigoris Antoniou
+36942	2	Eugene Charniak
+37408	2	Hans Tompits
+37409	2	Stefan Woltran
+38826	0	Julie Letchner
+36649	2	Wendy G. Lehnert
+38968	2	Dimitris Margaritis
+38350	2	Sridhar Mahadevan
+40383	2	Rudolph Triebel
+25415	2	Katia P. Sycara
+39487	3	Jun-ichi Tsujii
+40060	2	Alberto Maria Segre
+37808	2	Allen Ginsberg
+38838	2	John Levine
+25105	2	Peter R. Wurman
+22065	2	Alex Pentland
+37278	2	Kalev Kask
+37534	1	Usama M. Fayyad
+38824	2	Jasmina Pavlin
+36982	2	David Maxwell Chickering
+38680	2	T. K. Satish Kumar
+37044	2	Tad Hogg
+38845	2	Ilya Levner
+39657	2	Jean Ponce
+40602	2	Tanzeem Choudhury
+36170	2	Norman K. Sondheimer
+60145	2	Hiroshi Motoda
+45399	2	N. Hari Narayanan
+59609	2	Sylvian R. Ray
+45959	0	Dongmo Zhang
+58447	3	Emmett Tomai
+60432	0	James A. Reggia
+59117	0	Takayuki Ito
+59445	1	Terry E. Weymouth
+57516	0	David Kortenkamp
+57133	0	Raymond J. Mooney
+61471	0	John M. Zelle
+58281	0	Jeffrey S. Rosenschein
+58039	3	Matthew L. Ginsberg
+58470	0	C. David Page Jr.
+59223	0	John Seely Brown
+58536	2	Thomas Y. Galloway
+51778	2	Tetsuya Higuchi
+59763	2	Shai Ben-David
+59713	2	Anthony Stentz
+57353	1	Robert C. Bolles
+58921	3	Sandip Sen
+57962	3	Norman Y. Foo
+57350	3	Toby Walsh
+60634	0	Kent Wittenburg
+59205	0	Sanjaya Addanki
+59511	3	P. Pandurang Nayak
+61725	1	Brahim Chaib-draa
+60003	1	Itay Meiri
+59900	1	Michael L. Mauldin
+58433	2	Nicholas S. Flann
+59157	2	Kevin Leyton-Brown
+57924	2	Boi Faltings
+59406	1	Josh D. Tenenberg
+57121	3	Qiang Yang
+56999	2	R. James Firby
+60800	0	Jeffrey C. Schlimmer
+54743	2	Donghui Feng
+57285	3	Jihie Kim
+58421	0	Andrew P. Witkin
+59423	0	Mieczyslaw M. Kokar
+58273	2	Michael P. Wellman
+59076	1	Joelle Pineau
+58093	0	Keiji Kanazawa
+61905	0	Changshui Zhang
+62348	1	Shiming Xiang
+62028	1	Yangqing Jia
+62247	0	Martin C. Cooper
+57431	2	Michael H. Bowling
+58495	0	Daniel Frost
+60009	2	Arthur C. Sanderson
+60008	0	Luiz Homem de Mello
+57782	3	Hubie Chen
+60116	2	Leora Morgenstern
+58902	1	Steven L. Lytinen
+61404	3	Ramin Zabih
+58489	1	Georg Gottlob
+62459	1	Yilan Gu
+57344	2	Barry O'Sullivan
+48686	0	Stefano Bistarelli
+60204	0	Neil V. Murray
+61884	1	Pascal Hitzler
+46282	0	Jeff Z. Pan
+60010	3	Michael D. Moffitt
+58130	2	Ashwin Ram
+59758	0	Yuanlin Zhang
+59129	3	Paul S. Jacobs
+59217	3	Olivier Lhomme
+57232	0	Chitta Baral
+59931	2	Gregory Druck
+57427	3	Andrew McCallum
+61446	3	Masahiro Ono
+57688	2	Sandra Carberry
+60697	0	Chaofan Sun
+57346	2	Marco Cadoli
+59504	1	V. Nageshwara Rao
+59503	2	K. Ramesh
+61919	2	Antonio Roque
+57978	3	James M. Crawford
+58659	1	Naftali Tishby
+59062	1	Ramakant Nevatia
+59481	3	Jeff G. Schneider
+58170	3	Steven K. Donoho
+57633	2	David C. Wilkins
+59028	2	David S. Touretzky
+46442	1	Li Chen
+57544	1	Gerhard Brewka
+46112	3	Vincent Conitzer
+54369	1	Jayant Kalagnanam
+46113	0	Tuomas Sandholm
+58418	2	Michael R. Lowry
+58331	1	Brian Falkenhainer
+58332	0	Dedre Gentner
+58406	1	Akshay Java
+46321	2	Timothy W. Finin
+46480	2	Li Ding
+46482	0	Rong Pan
+43930	3	Wei Li
+59672	1	Pascal Poupart
+57081	0	Evan Sultanik
+57080	1	William C. Regli
+61441	3	Nobuhiro Yugami
+59354	1	Larry A. Rendell
+42088	2	Katsushi Ikeuchi
+46567	2	Yoav Shoham
+46156	1	David C. Parkes
+60437	3	William Pentney
+60440	2	Matthai Philipose
+58863	2	Tracy Hammond
+57025	0	Barbara Hayes-Roth
+58609	0	Wayne Iba
+61463	1	Fan Li
+57909	2	John W. Collins
+59064	0	John E. Laird
+60652	0	Jussi Rintanen
+58655	1	Moshe Koppel
+58654	3	Ido Dagan
+57250	3	Le-Chi Tuan
+57241	2	Tran Cao Son
+59108	3	Satinder P. Singh
+59841	2	Robert M. MacGregor
+58177	1	Piotr J. Gmytrasiewicz
+58141	3	Bistra N. Dilkina
+58290	2	Kutluhan Erol
+45100	3	James A. Hendler
+42438	1	Steven Feiner
+58361	0	Kathleen McKeown
+59213	1	Ulrich Junker
+42075	0	Takeo Kanade
+56846	2	Maurizio Lenzerini
+57987	0	Rajesh P. N. Rao
+56797	0	Bruce G. Buchanan
+57613	2	Scott H. Clearwater
+59855	2	Luca Maria Gambardella
+59895	2	Michael J. Witbrock
+60682	3	Mehran Sahami
+61370	3	Richard P. Wildes
+46109	3	Mark S. Fox
+58071	3	Howard E. Shrobe
+61904	0	Fei Wang
+44228	2	Tao Li
+59765	2	Charles X. Ling
+59080	0	Aaron Hunter
+57456	3	Ronald J. Brachman
+57215	0	Robert Neches
+46470	0	Iyad Rahwan
+61693	3	Chris Reed
+59926	2	Randall Steeb
+59402	2	Steve K. Luk
+56930	1	Grigoris Antoniou
+57762	1	Eugene Charniak
+58228	2	Hans Tompits
+58229	0	Stefan Woltran
+59646	3	Julie Letchner
+57469	3	Wendy G. Lehnert
+59788	2	Dimitris Margaritis
+59170	2	Sridhar Mahadevan
+61203	1	Rudolph Triebel
+46235	1	Katia P. Sycara
+60307	2	Jun-ichi Tsujii
+60880	1	Alberto Maria Segre
+58628	3	Allen Ginsberg
+59658	3	John Levine
+45925	2	Peter R. Wurman
+42885	3	Alex Pentland
+58098	0	Kalev Kask
+58354	0	Usama M. Fayyad
+59644	1	Jasmina Pavlin
+57802	0	David Maxwell Chickering
+59500	3	T. K. Satish Kumar
+57864	3	Tad Hogg
+59665	3	Ilya Levner
+60477	1	Jean Ponce
+61422	1	Tanzeem Choudhury
+56990	0	Norman K. Sondheimer
+80965	1	Moshe Koppel_noisy
+66219	2	Michael R. Lowry_noisy
+80429	2	Sylvian R. Ray_noisy
+66779	2	Li Ding_noisy
+79267	2	Michael J. Witbrock_noisy
+81252	2	Alex Pentland_noisy
+79937	2	Iyad Rahwan_noisy
+80265	2	Arthur C. Sanderson_noisy
+78336	2	Robert M. MacGregor_noisy
+77953	2	Steven K. Donoho_noisy
+82291	2	Grigoris Antoniou_noisy
+79101	2	Takayuki Ito_noisy
+78859	2	Yangqing Jia_noisy
+79290	2	Eugene Charniak_noisy
+80043	2	Maurizio Lenzerini_noisy
+79356	2	Timothy W. Finin_noisy
+72598	2	Hans Tompits_noisy
+80583	1	Dimitris Margaritis_noisy
+80533	2	Michael P. Wellman_noisy
+78173	2	Anthony Stentz_noisy
+79741	2	Georg Gottlob_noisy
+78782	2	Katsushi Ikeuchi_noisy
+78170	2	Rudolph Triebel_noisy
+81454	2	Marco Cadoli_noisy
+80025	2	Dongmo Zhang_noisy
+80331	2	Gerhard Brewka_noisy
+82545	2	Tran Cao Son_noisy
+80823	2	Matthew L. Ginsberg_noisy
+80720	3	Emmett Tomai_noisy
+79253	2	Ido Dagan_noisy
+79977	2	Kevin Leyton-Brown_noisy
+78744	2	James A. Hendler_noisy
+80226	2	Barry O'Sullivan_noisy
+77941	2	Ramin Zabih_noisy
+77819	2	Andrew McCallum_noisy
+81620	2	Bistra N. Dilkina_noisy
+75563	2	Itay Meiri_noisy
+78105	2	Robert C. Bolles_noisy
+79241	2	Hubie Chen_noisy
+80243	2	P. Pandurang Nayak_noisy
+79093	2	Larry A. Rendell_noisy
+79896	2	Rong Pan_noisy
+78913	2	Ashwin Ram_noisy
+82725	2	Steven L. Lytinen_noisy
+83168	2	Luca Maria Gambardella_noisy
+82848	2	David C. Wilkins_noisy
+83067	2	Dedre Gentner_noisy
+78251	2	Le-Chi Tuan_noisy
+79315	2	Matthai Philipose_noisy
+80829	2	Sandip Sen_noisy
+80828	2	William C. Regli_noisy
+78602	2	N. Hari Narayanan_noisy
+80936	2	Howard E. Shrobe_noisy
+79722	2	Michael L. Mauldin_noisy
+82224	2	James A. Reggia_noisy
+79309	0	Terry E. Weymouth_noisy
+83279	2	Li Chen_noisy
+78164	2	John E. Laird_noisy
+69506	2	Wendy G. Lehnert_noisy
+81024	2	Kutluhan Erol_noisy
+82704	2	John M. Zelle_noisy
+67102	2	David Kortenkamp_noisy
+80830	2	Jean Ponce_noisy
+78950	2	T. K. Satish Kumar_noisy
+80578	2	Jeffrey C. Schlimmer_noisy
+79949	3	Norman Y. Foo_noisy
+80037	2	Keiji Kanazawa_noisy
+78052	2	Gregory Druck_noisy
+80751	2	Evan Sultanik_noisy
+78247	2	Yuanlin Zhang_noisy
+82266	2	Shai Ben-David_noisy
+78508	3	Mark S. Fox_noisy
+81517	2	Ronald J. Brachman_noisy
+78166	2	David C. Parkes_noisy
+80324	2	Takeo Kanade_noisy
+80323	2	Steven Feiner_noisy
+82739	2	Jussi Rintanen_noisy
+78798	2	John Levine_noisy
+79479	2	Mieczyslaw M. Kokar_noisy
+79882	2	Chaofan Sun_noisy
+80301	2	Michael H. Bowling_noisy
+78990	2	Ulrich Junker_noisy
+78453	2	Steve K. Luk_noisy
+79848	2	Charles X. Ling_noisy
+67262	0	Luiz Homem de Mello_noisy
+78364	2	Brian Falkenhainer_noisy
+66932	2	Chitta Baral_noisy
+75189	2	Norman K. Sondheimer_noisy
+66933	2	Jayant Kalagnanam_noisy
+79238	2	John W. Collins_noisy
+79151	2	Ilya Levner_noisy
+79152	2	Joelle Pineau_noisy
+79226	2	Toby Walsh_noisy
+67141	2	Jeff G. Schneider_noisy
+67300	3	K. Ramesh_noisy
+67302	2	Kent Wittenburg_noisy
+64750	1	Randall Steeb_noisy
+80492	2	Fei Wang_noisy
+77901	2	David S. Touretzky_noisy
+77900	2	Antonio Roque_noisy
+82261	2	Tanzeem Choudhury_noisy
+80174	2	Richard P. Wildes_noisy
+62908	2	Satinder P. Singh_noisy
+67387	2	R. James Firby_noisy
+66976	2	Neil V. Murray_noisy
+81257	2	William Pentney_noisy
+81260	2	Chris Reed_noisy
+79683	2	Tracy Hammond_noisy
+77845	2	Sridhar Mahadevan_noisy
+79429	2	Mehran Sahami_noisy
+82283	2	Sanjaya Addanki_noisy
+78729	2	Alberto Maria Segre_noisy
+79884	2	Olivier Lhomme_noisy
+81472	2	Yoav Shoham_noisy
+79475	2	Tad Hogg_noisy
+79474	2	Katia P. Sycara_noisy
+78070	2	Shiming Xiang_noisy
+78061	2	Andrew P. Witkin_noisy
+79928	2	Jasmina Pavlin_noisy
+80661	2	Ramakant Nevatia_noisy
+78997	2	Tetsuya Higuchi_noisy
+78961	2	Piotr J. Gmytrasiewicz_noisy
+79110	2	Akshay Java_noisy
+65920	2	Robert Neches_noisy
+63258	2	Daniel Frost_noisy
+79181	2	Brahim Chaib-draa_noisy
+80033	2	Donghui Feng_noisy
+62895	2	Usama M. Fayyad_noisy
+77666	0	Josh D. Tenenberg_noisy
+78807	2	Fan Li_noisy
+77617	2	Vincent Conitzer_noisy
+78433	2	Barbara Hayes-Roth_noisy
+80675	2	Masahiro Ono_noisy
+80715	2	Boi Faltings_noisy
+81502	2	Scott H. Clearwater_noisy
+82190	2	Changshui Zhang_noisy
+66929	2	Nicholas S. Flann_noisy
+78891	2	Pascal Hitzler_noisy
+82724	2	Jeffrey S. Rosenschein_noisy
+65048	1	Julie Letchner_noisy
+80585	2	Sandra Carberry_noisy
+79900	2	Allen Ginsberg_noisy
+78276	2	Leora Morgenstern_noisy
+78035	2	Kathleen McKeown_noisy
+67290	2	Qiang Yang_noisy
+82513	2	Naftali Tishby_noisy
+80746	2	Pascal Poupart_noisy
+80222	2	Martin C. Cooper_noisy
+77750	2	Peter R. Wurman_noisy
+78582	2	Tao Li_noisy
+79048	2	David Maxwell Chickering_noisy
+79049	2	Kalev Kask_noisy
+80466	0	Thomas Y. Galloway_noisy
+78289	2	Wei Li_noisy
+80608	2	Jun-ichi Tsujii_noisy
+79990	2	Yilan Gu_noisy
+82023	2	C. David Page Jr._noisy
+67055	2	Paul S. Jacobs_noisy
+81127	3	Stefano Bistarelli_noisy
+81700	2	Nobuhiro Yugami_noisy
+79448	2	Tuomas Sandholm_noisy
+80478	2	Jeff Z. Pan_noisy
+66745	2	James M. Crawford_noisy
+63705	2	Jihie Kim_noisy
+78918	2	Rajesh P. N. Rao_noisy
+79174	1	Wayne Iba_noisy
+80464	2	V. Nageshwara Rao_noisy
+78622	2	Aaron Hunter_noisy
+80320	2	John Seely Brown_noisy
+78684	2	Raymond J. Mooney_noisy
+80485	2	Bruce G. Buchanan_noisy
+81297	2	Stefan Woltran_noisy
+82242	2	Michael D. Moffitt_noisy
+77810	2	Hiroshi Motoda_noisy
