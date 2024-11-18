@@ -1,66 +1,74 @@
 # **FastER: Fast On-Demand Entity Resolution in Property Graphs**
 
-**FastER** 是我们开发的新开源框架，旨在按需执行高效的实体解析，特别适用于属性图数据集。所有代码均使用 **Python 3** 编写，支持灵活的扩展和多种数据集。
+**FastER** is our newly developed open-source framework designed to efficiently perform on-demand entity resolution, specifically tailored for property graph datasets. All code is written in **Python 3**, supporting flexible extensions and various datasets.
 
 ![FastER Overview](FastER%20overview.svg)
 
 ---
 
-## **要求**
+## **Requirements**
 - Python 3.x
-- Neo4j 数据库（支持本地服务器版本）
+- Neo4j Database (supports local server versions)
 
 ---
 
-## **数据集**
+## **Installation**
+You can install the external libraries listed in `requirements.txt` using the following command:
 
-FastER 支持多种图形和关系 ER（实体解析）基准数据集，具体如下：
-
-### **1. 图形 ER 基准数据集**
-FastER 支持以下常用的图形数据集，可直接用于实验：
-
-- **WWC、ArXiv、CiteSeer、GDS 数据集**  
-  数据集链接：  
-  - [WWC、ArXiv、CiteSeer、GDS 数据集 - linqs.org](https://linqs.org/datasets/)  
-  - [WWC、ArXiv、CiteSeer、GDS 数据集 - Neo4j Sandbox](https://neo4j.com/sandbox/)
-
-### **2. 关系 ER 基准数据集**
-FastER 还支持以下经典的关系 ER 基准数据集：
-
-- [Fodors-Zagat, DBLP-ACM, Amazon-Google 数据集](https://github.com/anhaidgroup/deepmatcher/blob/master/Datasets.md)
-- **其他数据集**：
-  - **SIGMOD20**（简称 `alaska_camera`）：  
-    从 [SIGMOD 2020 官网](http://www.inf.uniroma3.it/db/sigmod2020contest/task.html) 下载数据集，并将文件夹 `2013_camera_specs` 放入项目的 `data_raw` 文件夹中。
-  - **Altosight**（简称 `altosight`）：  
-    Altosight 数据集目前尚未上线，未来将提供支持。
+```bash
+pip install -r requirements.txt
 
 
-## **如何使用 FastER 在关系数据集上实验**
-由于 **FastER** 始终需要图数据集作为输入，用户需要先将关系数据集转换为图数据集。为此，我们提供了相关的预处理脚本：
-- **`preprocessing.py`** 和 **`txt2csv.py`**：用于关系数据到图数据的转换。  
-如果需要详细了解如何进行转换，建议阅读并使用这些脚本。项目中已包含转换后的示例数据集，可直接使用。
+## **Datasets**
+
+FastER supports a variety of benchmark datasets for both graph and relational entity resolution (ER), as detailed below:
+
+### **1. Graph ER Benchmark Datasets**
+FastER supports the following commonly used graph datasets, ready for experiments:
+
+- **WWC, ArXiv, CiteSeer, GDS Datasets**  
+  Dataset Links:  
+  - [WWC, ArXiv, CiteSeer, GDS Datasets - linqs.org](https://linqs.org/datasets/)  
+  - [WWC, ArXiv, CiteSeer, GDS Datasets - Neo4j Sandbox](https://neo4j.com/sandbox/)
+
+### **2. Relational ER Benchmark Datasets**
+FastER also supports the following classic relational ER benchmark datasets:
+
+- [Fodors-Zagat, DBLP-ACM, Amazon-Google Datasets](https://github.com/anhaidgroup/deepmatcher/blob/master/Datasets.md)
+- **Other Datasets**:
+  - **SIGMOD20** (referred to as `alaska_camera`):  
+    Download the dataset from the [SIGMOD 2020 Official Website](http://www.inf.uniroma3.it/db/sigmod2020contest/task.html) and place the `2013_camera_specs` folder into the project's `data_raw` directory.
+  - **Altosight** (referred to as `altosight`):  
+    The Altosight dataset is currently unavailable but will be supported in the future.
+
+
+## **How to Use FastER on Relational Datasets**
+Since **FastER** always requires graph datasets as input, users need to first convert relational datasets into graph datasets. For this purpose, we provide the following preprocessing scripts:
+- **`preprocessing.py`** and **`txt2csv.py`**: These scripts are used to convert relational datasets into graph datasets.  
+For more details, refer to the provided scripts. The project also includes pre-converted sample datasets that can be used directly.
 
 ---
 
-## **规则挖掘**
-FastER 中的规则挖掘基于以下两篇研究论文的定义与过程：
+## **Rule Mining**
+The rule mining feature in FastER is based on the definitions and processes described in the following papers:
 1. **Discovering Graph Differential Dependencies**  
 2. **Certus: An Effective Entity Resolution Approach with Graph Differential Dependencies (GDDs)**  
 
-用户可以通过阅读上述论文深入了解规则定义与挖掘方法。
+For a deeper understanding of rule definitions and mining processes, users are encouraged to read these papers.
 
 ---
 
-## **运行示例**
-以下是运行 FastER 的步骤，基于默认数据集 **Arxiv**：
+## **Example Usage**
+Below are the steps to run FastER using the default **Arxiv** dataset:
 
-1. **安装 Neo4j**：  
-   安装本地 Neo4j 数据库服务器（任何版本均兼容）。
+1. **Install Neo4j**:  
+   Install the Neo4j database (any compatible local server version will work).
 
-2. **导入数据集**：  
-   运行 `neo4j.ipynb` 脚本，将 Arxiv 数据集导入 Neo4j 数据库。
+2. **Import Dataset**:  
+   Run the `neo4j.ipynb` script to import the Arxiv dataset into the Neo4j database.
 
-3. **执行实体解析**：  
-   使用以下命令运行 `main1.py` 文件：
+3. **Perform Entity Resolution**:  
+   Use the following command to run the `main1.py` script for entity resolution:
+
    ```bash
    python main1.py
