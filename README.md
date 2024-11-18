@@ -60,7 +60,7 @@ For a deeper understanding of rule definitions and mining processes, users are e
 
 ---
 
-## **Example Usage**
+## **Running example**
 Below are the steps to run FastER using the default **Arxiv** dataset:
 
 1. **Install Neo4j**:  
