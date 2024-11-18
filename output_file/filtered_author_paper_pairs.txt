@@ -1,0 +1,456 @@
+Iteration 1 matching pairs:
+Author 1: (ID: 7, Name: dijkgraaf_robbert_, Code: a7)
+Author 2: (ID: 25912, Name: dijkgraaf_robbert_, Code: a25912)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+Author 1: (ID: 7, Name: dijkgraaf_robbert_, Code: a7)
+Author 2: (ID: 38953, Name: dijkgraaf_robbert_, Code: a38953)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+Author 1: (ID: 7, Name: dijkgraaf_robbert_, Code: a7)
+Author 2: (ID: 44525, Name: dijkgraaf_robbert_, Code: a44525)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+Author 1: (ID: 7, Name: dijkgraaf_robbert_, Code: a7)
+Author 2: (ID: 52934, Name: dijkgraaf_robbert_, Code: a52934)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+Author 1: (ID: 7, Name: dijkgraaf_robbert_, Code: a7)
+Author 2: (ID: 53145, Name: dijkgraaf_robbert_, Code: a53145)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+Author 1: (ID: 7, Name: dijkgraaf_robbert_, Code: a7)
+Author 2: (ID: 53596, Name: dijkgraaf_robbert_, Code: a53596)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+Author 1: (ID: 7, Name: dijkgraaf_robbert_, Code: a7)
+Author 2: (ID: 54945, Name: dijkgraaf_robbert_, Code: a54945)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+Author 1: (ID: 7, Name: dijkgraaf_robbert_, Code: a7)
+Author 2: (ID: 55519, Name: dijkgraaf_robbert_, Code: a55519)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+Author 1: (ID: 7, Name: dijkgraaf_robbert_, Code: a7)
+Author 2: (ID: 55621, Name: dijkgraaf_robbert_, Code: a55621)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+Author 1: (ID: 7, Name: dijkgraaf_robbert_, Code: a7)
+Author 2: (ID: 56980, Name: dijkgraaf_robbert_, Code: a56980)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+Author 1: (ID: 25912, Name: dijkgraaf_robbert_, Code: a25912)
+Author 2: (ID: 38953, Name: dijkgraaf_robbert_, Code: a38953)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+Author 1: (ID: 25912, Name: dijkgraaf_robbert_, Code: a25912)
+Author 2: (ID: 44525, Name: dijkgraaf_robbert_, Code: a44525)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+Author 1: (ID: 25912, Name: dijkgraaf_robbert_, Code: a25912)
+Author 2: (ID: 52934, Name: dijkgraaf_robbert_, Code: a52934)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+Author 1: (ID: 25912, Name: dijkgraaf_robbert_, Code: a25912)
+Author 2: (ID: 53145, Name: dijkgraaf_robbert_, Code: a53145)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+Author 1: (ID: 25912, Name: dijkgraaf_robbert_, Code: a25912)
+Author 2: (ID: 53596, Name: dijkgraaf_robbert_, Code: a53596)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+Author 1: (ID: 25912, Name: dijkgraaf_robbert_, Code: a25912)
+Author 2: (ID: 54945, Name: dijkgraaf_robbert_, Code: a54945)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+Author 1: (ID: 25912, Name: dijkgraaf_robbert_, Code: a25912)
+Author 2: (ID: 55519, Name: dijkgraaf_robbert_, Code: a55519)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+Author 1: (ID: 25912, Name: dijkgraaf_robbert_, Code: a25912)
+Author 2: (ID: 55621, Name: dijkgraaf_robbert_, Code: a55621)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+Author 1: (ID: 25912, Name: dijkgraaf_robbert_, Code: a25912)
+Author 2: (ID: 56980, Name: dijkgraaf_robbert_, Code: a56980)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+Author 1: (ID: 38953, Name: dijkgraaf_robbert_, Code: a38953)
+Author 2: (ID: 44525, Name: dijkgraaf_robbert_, Code: a44525)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+Author 1: (ID: 38953, Name: dijkgraaf_robbert_, Code: a38953)
+Author 2: (ID: 52934, Name: dijkgraaf_robbert_, Code: a52934)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+Author 1: (ID: 38953, Name: dijkgraaf_robbert_, Code: a38953)
+Author 2: (ID: 53145, Name: dijkgraaf_robbert_, Code: a53145)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+Author 1: (ID: 38953, Name: dijkgraaf_robbert_, Code: a38953)
+Author 2: (ID: 53596, Name: dijkgraaf_robbert_, Code: a53596)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+Author 1: (ID: 38953, Name: dijkgraaf_robbert_, Code: a38953)
+Author 2: (ID: 54945, Name: dijkgraaf_robbert_, Code: a54945)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+Author 1: (ID: 38953, Name: dijkgraaf_robbert_, Code: a38953)
+Author 2: (ID: 55519, Name: dijkgraaf_robbert_, Code: a55519)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+Author 1: (ID: 38953, Name: dijkgraaf_robbert_, Code: a38953)
+Author 2: (ID: 55621, Name: dijkgraaf_robbert_, Code: a55621)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+Author 1: (ID: 38953, Name: dijkgraaf_robbert_, Code: a38953)
+Author 2: (ID: 56980, Name: dijkgraaf_robbert_, Code: a56980)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+Author 1: (ID: 44525, Name: dijkgraaf_robbert_, Code: a44525)
+Author 2: (ID: 52934, Name: dijkgraaf_robbert_, Code: a52934)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+Author 1: (ID: 44525, Name: dijkgraaf_robbert_, Code: a44525)
+Author 2: (ID: 53145, Name: dijkgraaf_robbert_, Code: a53145)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+Author 1: (ID: 44525, Name: dijkgraaf_robbert_, Code: a44525)
+Author 2: (ID: 53596, Name: dijkgraaf_robbert_, Code: a53596)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+Author 1: (ID: 44525, Name: dijkgraaf_robbert_, Code: a44525)
+Author 2: (ID: 54945, Name: dijkgraaf_robbert_, Code: a54945)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+Author 1: (ID: 44525, Name: dijkgraaf_robbert_, Code: a44525)
+Author 2: (ID: 55519, Name: dijkgraaf_robbert_, Code: a55519)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+Author 1: (ID: 44525, Name: dijkgraaf_robbert_, Code: a44525)
+Author 2: (ID: 55621, Name: dijkgraaf_robbert_, Code: a55621)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+Author 1: (ID: 44525, Name: dijkgraaf_robbert_, Code: a44525)
+Author 2: (ID: 56980, Name: dijkgraaf_robbert_, Code: a56980)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+Author 1: (ID: 52934, Name: dijkgraaf_robbert_, Code: a52934)
+Author 2: (ID: 53145, Name: dijkgraaf_robbert_, Code: a53145)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+Author 1: (ID: 52934, Name: dijkgraaf_robbert_, Code: a52934)
+Author 2: (ID: 53596, Name: dijkgraaf_robbert_, Code: a53596)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+Author 1: (ID: 52934, Name: dijkgraaf_robbert_, Code: a52934)
+Author 2: (ID: 54945, Name: dijkgraaf_robbert_, Code: a54945)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+Author 1: (ID: 52934, Name: dijkgraaf_robbert_, Code: a52934)
+Author 2: (ID: 55519, Name: dijkgraaf_robbert_, Code: a55519)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+Author 1: (ID: 52934, Name: dijkgraaf_robbert_, Code: a52934)
+Author 2: (ID: 55621, Name: dijkgraaf_robbert_, Code: a55621)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+Author 1: (ID: 52934, Name: dijkgraaf_robbert_, Code: a52934)
+Author 2: (ID: 56980, Name: dijkgraaf_robbert_, Code: a56980)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+
+Iteration 2 matching pairs:
+Author 1: (ID: 53145, Name: dijkgraaf_robbert_, Code: a53145)
+Author 2: (ID: 7, Name: dijkgraaf_robbert_, Code: a7)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+Author 1: (ID: 53145, Name: dijkgraaf_robbert_, Code: a53145)
+Author 2: (ID: 25912, Name: dijkgraaf_robbert_, Code: a25912)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+Author 1: (ID: 53145, Name: dijkgraaf_robbert_, Code: a53145)
+Author 2: (ID: 38953, Name: dijkgraaf_robbert_, Code: a38953)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+Author 1: (ID: 53145, Name: dijkgraaf_robbert_, Code: a53145)
+Author 2: (ID: 44525, Name: dijkgraaf_robbert_, Code: a44525)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+Author 1: (ID: 53145, Name: dijkgraaf_robbert_, Code: a53145)
+Author 2: (ID: 52934, Name: dijkgraaf_robbert_, Code: a52934)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+Author 1: (ID: 53145, Name: dijkgraaf_robbert_, Code: a53145)
+Author 2: (ID: 53596, Name: dijkgraaf_robbert_, Code: a53596)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+Author 1: (ID: 53145, Name: dijkgraaf_robbert_, Code: a53145)
+Author 2: (ID: 54945, Name: dijkgraaf_robbert_, Code: a54945)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+Author 1: (ID: 53145, Name: dijkgraaf_robbert_, Code: a53145)
+Author 2: (ID: 55519, Name: dijkgraaf_robbert_, Code: a55519)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+Author 1: (ID: 53145, Name: dijkgraaf_robbert_, Code: a53145)
+Author 2: (ID: 55621, Name: dijkgraaf_robbert_, Code: a55621)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+Author 1: (ID: 53145, Name: dijkgraaf_robbert_, Code: a53145)
+Author 2: (ID: 56980, Name: dijkgraaf_robbert_, Code: a56980)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+Author 1: (ID: 53596, Name: dijkgraaf_robbert_, Code: a53596)
+Author 2: (ID: 7, Name: dijkgraaf_robbert_, Code: a7)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+Author 1: (ID: 53596, Name: dijkgraaf_robbert_, Code: a53596)
+Author 2: (ID: 25912, Name: dijkgraaf_robbert_, Code: a25912)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+Author 1: (ID: 53596, Name: dijkgraaf_robbert_, Code: a53596)
+Author 2: (ID: 38953, Name: dijkgraaf_robbert_, Code: a38953)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+Author 1: (ID: 53596, Name: dijkgraaf_robbert_, Code: a53596)
+Author 2: (ID: 44525, Name: dijkgraaf_robbert_, Code: a44525)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+Author 1: (ID: 53596, Name: dijkgraaf_robbert_, Code: a53596)
+Author 2: (ID: 52934, Name: dijkgraaf_robbert_, Code: a52934)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+Author 1: (ID: 53596, Name: dijkgraaf_robbert_, Code: a53596)
+Author 2: (ID: 54945, Name: dijkgraaf_robbert_, Code: a54945)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+Author 1: (ID: 53596, Name: dijkgraaf_robbert_, Code: a53596)
+Author 2: (ID: 55519, Name: dijkgraaf_robbert_, Code: a55519)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+Author 1: (ID: 53596, Name: dijkgraaf_robbert_, Code: a53596)
+Author 2: (ID: 55621, Name: dijkgraaf_robbert_, Code: a55621)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+Author 1: (ID: 53596, Name: dijkgraaf_robbert_, Code: a53596)
+Author 2: (ID: 56980, Name: dijkgraaf_robbert_, Code: a56980)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+Author 1: (ID: 54945, Name: dijkgraaf_robbert_, Code: a54945)
+Author 2: (ID: 7, Name: dijkgraaf_robbert_, Code: a7)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+Author 1: (ID: 54945, Name: dijkgraaf_robbert_, Code: a54945)
+Author 2: (ID: 25912, Name: dijkgraaf_robbert_, Code: a25912)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+Author 1: (ID: 54945, Name: dijkgraaf_robbert_, Code: a54945)
+Author 2: (ID: 38953, Name: dijkgraaf_robbert_, Code: a38953)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+Author 1: (ID: 54945, Name: dijkgraaf_robbert_, Code: a54945)
+Author 2: (ID: 44525, Name: dijkgraaf_robbert_, Code: a44525)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+Author 1: (ID: 54945, Name: dijkgraaf_robbert_, Code: a54945)
+Author 2: (ID: 52934, Name: dijkgraaf_robbert_, Code: a52934)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+Author 1: (ID: 54945, Name: dijkgraaf_robbert_, Code: a54945)
+Author 2: (ID: 55519, Name: dijkgraaf_robbert_, Code: a55519)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+Author 1: (ID: 54945, Name: dijkgraaf_robbert_, Code: a54945)
+Author 2: (ID: 55621, Name: dijkgraaf_robbert_, Code: a55621)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+Author 1: (ID: 54945, Name: dijkgraaf_robbert_, Code: a54945)
+Author 2: (ID: 56980, Name: dijkgraaf_robbert_, Code: a56980)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+Author 1: (ID: 55519, Name: dijkgraaf_robbert_, Code: a55519)
+Author 2: (ID: 7, Name: dijkgraaf_robbert_, Code: a7)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+Author 1: (ID: 55519, Name: dijkgraaf_robbert_, Code: a55519)
+Author 2: (ID: 25912, Name: dijkgraaf_robbert_, Code: a25912)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+Author 1: (ID: 55519, Name: dijkgraaf_robbert_, Code: a55519)
+Author 2: (ID: 38953, Name: dijkgraaf_robbert_, Code: a38953)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+Author 1: (ID: 55519, Name: dijkgraaf_robbert_, Code: a55519)
+Author 2: (ID: 44525, Name: dijkgraaf_robbert_, Code: a44525)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+Author 1: (ID: 55519, Name: dijkgraaf_robbert_, Code: a55519)
+Author 2: (ID: 52934, Name: dijkgraaf_robbert_, Code: a52934)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+Author 1: (ID: 55519, Name: dijkgraaf_robbert_, Code: a55519)
+Author 2: (ID: 55621, Name: dijkgraaf_robbert_, Code: a55621)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+Author 1: (ID: 55519, Name: dijkgraaf_robbert_, Code: a55519)
+Author 2: (ID: 56980, Name: dijkgraaf_robbert_, Code: a56980)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+Author 1: (ID: 55621, Name: dijkgraaf_robbert_, Code: a55621)
+Author 2: (ID: 7, Name: dijkgraaf_robbert_, Code: a7)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+Author 1: (ID: 55621, Name: dijkgraaf_robbert_, Code: a55621)
+Author 2: (ID: 25912, Name: dijkgraaf_robbert_, Code: a25912)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+Author 1: (ID: 55621, Name: dijkgraaf_robbert_, Code: a55621)
+Author 2: (ID: 38953, Name: dijkgraaf_robbert_, Code: a38953)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+Author 1: (ID: 55621, Name: dijkgraaf_robbert_, Code: a55621)
+Author 2: (ID: 44525, Name: dijkgraaf_robbert_, Code: a44525)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+Author 1: (ID: 55621, Name: dijkgraaf_robbert_, Code: a55621)
+Author 2: (ID: 52934, Name: dijkgraaf_robbert_, Code: a52934)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+Author 1: (ID: 55621, Name: dijkgraaf_robbert_, Code: a55621)
+Author 2: (ID: 56980, Name: dijkgraaf_robbert_, Code: a56980)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+
+Iteration 3 matching pairs:
+Author 1: (ID: 56980, Name: dijkgraaf_robbert_, Code: a56980)
+Author 2: (ID: 7, Name: dijkgraaf_robbert_, Code: a7)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+Author 1: (ID: 56980, Name: dijkgraaf_robbert_, Code: a56980)
+Author 2: (ID: 25912, Name: dijkgraaf_robbert_, Code: a25912)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+Author 1: (ID: 56980, Name: dijkgraaf_robbert_, Code: a56980)
+Author 2: (ID: 38953, Name: dijkgraaf_robbert_, Code: a38953)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+Author 1: (ID: 56980, Name: dijkgraaf_robbert_, Code: a56980)
+Author 2: (ID: 44525, Name: dijkgraaf_robbert_, Code: a44525)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+Author 1: (ID: 56980, Name: dijkgraaf_robbert_, Code: a56980)
+Author 2: (ID: 52934, Name: dijkgraaf_robbert_, Code: a52934)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+Author 1: (ID: 56980, Name: dijkgraaf_robbert_, Code: a56980)
+Author 2: (ID: 53145, Name: dijkgraaf_robbert_, Code: a53145)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+Author 1: (ID: 56980, Name: dijkgraaf_robbert_, Code: a56980)
+Author 2: (ID: 53596, Name: dijkgraaf_robbert_, Code: a53596)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+Author 1: (ID: 56980, Name: dijkgraaf_robbert_, Code: a56980)
+Author 2: (ID: 54945, Name: dijkgraaf_robbert_, Code: a54945)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+Author 1: (ID: 56980, Name: dijkgraaf_robbert_, Code: a56980)
+Author 2: (ID: 55519, Name: dijkgraaf_robbert_, Code: a55519)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+Author 1: (ID: 56980, Name: dijkgraaf_robbert_, Code: a56980)
+Author 2: (ID: 55621, Name: dijkgraaf_robbert_, Code: a55621)
+Paper 1: None, Paper 2: None
+Name Similarity: 1.00
+--------------------------------------------
+
