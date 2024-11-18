@@ -37,9 +37,10 @@ FastER also supports the following classic relational ER benchmark datasets:
 - [Fodors-Zagat, DBLP-ACM, Amazon-Google Datasets](https://github.com/anhaidgroup/deepmatcher/blob/master/Datasets.md)
 - **Other Datasets**:
   - **SIGMOD20** (referred to as `alaska_camera`):  
-    Download the dataset from the [SIGMOD 2020 Official Website](http://www.inf.uniroma3.it/db/sigmod2020contest/task.html) and place the `2013_camera_specs` folder into the project's `data_raw` directory.
+    Download the dataset from [SIGMOD 2020 Official Website](http://www.inf.uniroma3.it/db/sigmod2020contest/task.html) and place the folder `2013_camera_specs` in the project directory `data_raw`.
   - **Altosight** (referred to as `altosight`):  
     The Altosight dataset is currently unavailable but will be supported in the future.
+
 
 
 ## **How to Use FastER on Relational Datasets**
