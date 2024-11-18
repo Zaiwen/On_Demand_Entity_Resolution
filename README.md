@@ -12,21 +12,26 @@
 
 ## **数据集**
 
-### **图形 ER 基准数据集**
-- **WWC 和 GDS**  
+FastER 支持多种图形和关系 ER（实体解析）基准数据集，具体如下：
+
+### **1. 图形 ER 基准数据集**
+FastER 支持以下常用的图形数据集，可直接用于实验：
+
+- **WWC、ArXiv、CiteSeer、GDS 数据集**  
   数据集链接：  
-  - [WWC 和 GDS 数据集 - linqs.org](https://linqs.org/datasets/)  
-  - [WWC 和 GDS 数据集 - Neo4j Sandbox](https://neo4j.com/sandbox/)
+  - [WWC、ArXiv、CiteSeer、GDS 数据集 - linqs.org](https://linqs.org/datasets/)  
+  - [WWC、ArXiv、CiteSeer、GDS 数据集 - Neo4j Sandbox](https://neo4j.com/sandbox/)
 
-- **其他图形数据集**：
-  - **SIGMOD20**（简称 `alaska_camera`）：从 [SIGMOD 2020 官网](http://www.inf.uniroma3.it/db/sigmod2020contest/task.html) 下载数据集 X，并将文件夹 `2013_camera_specs` 放入项目的 `data_raw` 文件夹中。
-  - **Altosight**（简称 `altosight`）：Altosight 数据集目前尚未上线，未来将提供支持。
+### **2. 关系 ER 基准数据集**
+FastER 还支持以下经典的关系 ER 基准数据集：
 
-### **关系 ER 基准数据集**
-FastER 还支持多个经典的关系 ER 基准数据集，以下是相关链接：
-- [SIGMOD20, Altosight, Fodors-Zagat, DBLP-ACM, Amazon-Google 数据集](https://github.com/anhaidgroup/deepmatcher/blob/master/Datasets.md)
+- [Fodors-Zagat, DBLP-ACM, Amazon-Google 数据集](https://github.com/anhaidgroup/deepmatcher/blob/master/Datasets.md)
+- **其他数据集**：
+  - **SIGMOD20**（简称 `alaska_camera`）：  
+    从 [SIGMOD 2020 官网](http://www.inf.uniroma3.it/db/sigmod2020contest/task.html) 下载数据集，并将文件夹 `2013_camera_specs` 放入项目的 `data_raw` 文件夹中。
+  - **Altosight**（简称 `altosight`）：  
+    Altosight 数据集目前尚未上线，未来将提供支持。
 
----
 
 ## **如何使用 FastER 在关系数据集上实验**
 由于 **FastER** 始终需要图数据集作为输入，用户需要先将关系数据集转换为图数据集。为此，我们提供了相关的预处理脚本：
