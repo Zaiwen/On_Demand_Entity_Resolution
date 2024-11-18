@@ -17,7 +17,7 @@ You can install the external libraries listed in `requirements.txt` using the fo
 
 ```bash
 pip install -r requirements.txt
-\`\`\`
+```
 
 
 ## **Datasets**
