@@ -1,7 +1,6 @@
 import sys
 import os
 from py2neo import Graph, Node
-sys.path.append('/work/home/fzw_hzau/.local/lib/python3.8/site-packages')
 
 def jaccard_similarity(str1, str2):
     set1 = set(str1.split())
