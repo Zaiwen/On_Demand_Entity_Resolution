@@ -2,7 +2,6 @@ import sys
 
 import configparser
 from py2neo import Graph
-sys.path.append('/work/home/fzw_hzau/.local/lib/python3.8/site-packages')
 config = configparser.ConfigParser()
 config.read("config.ini")
 neo4j_profile = config["neo4j"]["profile"]
