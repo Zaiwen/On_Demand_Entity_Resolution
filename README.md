@@ -42,6 +42,13 @@ FastER also supports the following classic relational ER benchmark datasets:
   - **Altosight** (referred to as `altosight`):  
     The Altosight dataset is currently unavailable but will be supported in the future.
 
+### **3. Synthetic Datasets**
+WWC-* and GDS-* datasets: These datasets are respectively derived
+from the Women’s World Cup (WWC) dataset and the Graph Data Science
+(GDS) dataset, and are augmented with 10% duplicate nodes to introduce
+noise. GDS-* models connections between global airports, including nodes
+representing airports and their connections. WWC-* includes nodes repre-
+senting persons, teams, matches, and other related entities.
 
 
 ## **How to Use FastER on Relational Datasets**
