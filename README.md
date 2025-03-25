@@ -47,12 +47,13 @@ WWC and GDS datasets: These datasets are respectively derived from the Women’s
 
 
 
-## **How to Use FastER on Relational Datasets**
-Since **FastER** always requires graph datasets as input, users need to first convert relational datasets into graph datasets. For this purpose, we provide the following preprocessing scripts:
-- **`preprocessing.py`** and **`txt2csv.py`**: These scripts are used to convert relational datasets into graph datasets.  
-For more details, refer to the provided scripts. The project also includes pre-converted sample datasets that can be used directly.
+## Data Conversion for Entity Resolution 
+Q:How to Use FastER on Relational Datasets or Run graph datasets on relational datasets-based baselines?
 
----
+A:https://anonymous.4open.science/r/data-conversion-E737      
+This project provides tools for converting between relational data types and graph data types for entity resolution (ER). The goal is to enable efficient integration and processing of data from various sources, facilitating graph-based ER tasks.
+
+
 
 ## **Rule Mining**
 The rule mining feature in FastER is based on the definitions and processes described in the following papers:
