@@ -80,6 +80,6 @@ Below are the steps to run FastER using the default **Arxiv** dataset:
    python main1.py
 
 
-## **Latest work**
-This is our latest work on automatic rule mechanisms. For more details, please refer to: [LLM-Enhanced Entity Matching Using Graph Differential Dependencies](https://anonymous.4open.science/r/LLM-Enhanced-Entity-Matching-Using-Graph-Differential-Dependencies-F03B)
+## **Recent work on automatic rule mechanisms**
+This is a recent effort on automatic rule mechanisms. For more details, please refer to:[LLM-Enhanced Entity Matching Using Graph Differential Dependencies](https://anonymous.4open.science/r/LLM-Enhanced-Entity-Matching-Using-Graph-Differential-Dependencies-F03B)
 
