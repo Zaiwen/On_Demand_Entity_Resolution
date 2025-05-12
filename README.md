@@ -64,6 +64,11 @@ For a deeper understanding of rule definitions and mining processes, users are e
 
 ---
 
+## **Parameter Configuration**
+
+All parameters have been preconfigured in the codebase. No manual adjustment is required when switching datasets, as the impact of configuration changes on the overall results is negligible.
+
+
 ## **Running example**
 Below are the steps to run FastER using the default **Arxiv** dataset:
 
